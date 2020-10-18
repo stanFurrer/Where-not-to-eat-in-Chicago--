@@ -6,8 +6,6 @@ Check out our data story [here](https://jczestochowska.github.io/)
 
 In order to see all the plots, check out the `project_milestione_3.html` (HTML version of the notebook).
 
-We also provide nbviewer [here](https://nbviewer.jupyter.org/github/jczestochowska/chicago_food/blob/master/project_milestone3.ipynb) (but it seems that not all the plots are shown).
-
 # Abstract
 
 With more than 14'000 restaurants, food is a serious business in Chicago. But choosing where to eat is not an easy task, especially when you want to avoid risky places. Our choices are usually affected by the reviews of other visitors and the location of the restaurant. But do we ever wonder if a restaurant fulfils all sanitary standards?

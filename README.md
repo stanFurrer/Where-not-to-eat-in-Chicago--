@@ -42,34 +42,6 @@ Our main base dataset is a kaggle one [Chicago Food Inspections](https://www.kag
 
 Final presentation: Stanislas Furrer, Luis Carvalho
 
-# Previous milestone
-
-## Progress done up until milestone 2
-
-Up until milestone 2 we managed to familirize ourselves with the data we're working with and obtain some first results that form the first answers to the research questions we posed. We decided to drop one research question. Also, we started visualizing our results in the form that will be the target one, which are maps of Chicago with marked neighborhoods.
-
-## Internal milestones up until project milestone 3
-**The same list can be also found at the end of the `project_milestone2` notebook**
-
-The plans are split by research queations to which they apply:
-
-**Question 1:** 
- - visualize and analyze spatial patterns of most common violations, 
- - use violations as a source for "safe to eat" metric for a neighborhood (e.g. with percentage of inspections passed without violations concerning food or a trend in such pass rate).
-
-**Question 2:** 
- - build a better heuristic to evaluate restaurant safety, 
- - use other available features to determine "safe or dangerous" neighborhood (e.g. use the Risk column, narrow down the analysis to certain inspection type).
-
-**Question 3:** 
- - study more indicators of restaurant quality, such as the risk level and violation categories, and their evolution over time,
- - find areas with potential future improvement,
- - inspect whether some restaurant chains follow certain trends.
-
-**Question 4:** 
- - check if there is a relationship between "safe or dangerous" neighborhoods to eat and life quality index in those neighborhoods.
-
-
 ## Data story plan
 **The same plan can be also found at the end of the `project_milestone2` notebook**
 

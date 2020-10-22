@@ -1,6 +1,7 @@
 # Title: Where (not) to eat in Chicago?
 
 **Author :** Stanislas Furrer & Yura Tak & Luis Carvalho  & Lucas Hariz 
+
 **Date :** 20.12.2018
 
 Check out our data story [here](https://jczestochowska.github.io/)
